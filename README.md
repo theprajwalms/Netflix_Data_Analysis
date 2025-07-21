@@ -55,17 +55,6 @@ The main objectives of this analysis are:
 
 ---
 
-## 🗂️ Files in this Repository
-
-| File | Description |
-|-------|-------------|
-| `Netflix_data_analysis.ipynb` | Jupyter Notebook containing the full data analysis |
-| `mymoviedb.csv` | Movie dataset used for analysis |
-| `movie data analysis project ppt.pptx` | Presentation summarizing the project findings |
-| `README.md` | Project documentation |
-
----
-
 ## 📈 Sample Visualizations
 
 - Bar plots of genre frequency
@@ -84,13 +73,3 @@ The main objectives of this analysis are:
    ```
 
 3. Run the `Netflix_data_analysis.ipynb` notebook in Jupyter.
-
----
-
-## 🙌 Acknowledgments
-
-This project was developed as part of **The iScale Organization’s Data Science Initiative**.
-
-Website: [theiscale.com](http://theiscale.com)  
-Contact: 7880-113-112  
-Instagram: **@theiscale.founders**
